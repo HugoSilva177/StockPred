@@ -14,3 +14,4 @@ Dados utilizados como label:
 
 Obs.: StockPred é um projeto paralelo ao projeto StockData no qual é resposável pela extração, transformação e carregamento de dados (ETL).
 Os dados coletados pelo StockData serão posteriormente utilizados pelo StockPred.
+https://github.com/HugoSilva177/StockData
